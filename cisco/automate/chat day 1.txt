@@ -1,0 +1,65 @@
+from sagar to everyone:    11:33 PM
+will need to mute otherwise there will be echo
+from Sanjai Goel to everyone:    11:33 PM
+ok
+from Sanjai Goel to everyone:    11:33 PM
+got it
+from Sanjai Goel to everyone:    11:33 PM
+you can speak
+from Sanjai Goel to everyone:    11:33 PM
+i am on mute now
+from sagar to everyone:    11:35 PM
+in you taskbar you should see green logo 
+from sagar to everyone:    11:35 PM
+if wamp server is running
+from sagar to everyone:    11:36 PM
+its should be where the computer clock is
+from sagar to everyone:    11:36 PM
+share full desktoop
+from Sanjai Goel to everyone:    11:36 PM
+Let me take you in conference on a direct line from my soft phone I think that will help in improving communication quality
+from sagar to everyone:    11:37 PM
+open browser and type localhost
+from sagar to everyone:    11:37 PM
+hit enter
+from sagar to everyone:    11:38 PM
+third column bottom
+from sagar to everyone:    11:38 PM
+click root
+from Sanjai Goel to everyone:    11:39 PM
+Sagar I m calling you from soft phone
+from Sanjai Goel to everyone:    11:39 PM
+lets conference directly on phone
+from Sanjai Goel to everyone:    11:40 PM
+to see if it improves the quality
+from sagar to everyone:    11:51 PM
+pip install requests
+from sagar to everyone:    11:52 PM
+pip install lxml
+from sagar to everyone:    11:52 PM
+pip install pymysql
+from sagar to everyone:    11:53 PM
+pip install bs4
+from Sanjai Goel to everyone:    11:59 PM
+Should I send you the program files?
+from Sanjai Goel to everyone:    12:01 AM
+Files sent to you Sagar, please check your inbox
+from sagar to everyone:    12:02 AM
+there should be some comments in the folder
+from sagar to everyone:    12:02 AM
+i don't remember exactly
+from sagar to everyone:    12:06 AM
+response.cookies
+from sagar to everyone:    12:07 AM
+print (response.cookies)
+from sagar to everyone:    12:08 AM
+response.status_code
+from sagar to everyone:    12:09 AM
+The HTTP 415 Unsupported Media Type client error response code indicates that the server refuses to accept the request because the payload format is in an unsupported format. The format problem might be due to the request's indicated Content-Type or Content-Encoding , or as a result of inspecting the data directly.
+from Sanjai Goel to everyone:    12:16 AM
+Sagar, you want to continue now or later? Need sometime to reveiw files?
+from Sanjai Goel to everyone:    12:27 AM
+https://mycase.cloudapps.cisco.com/create/start
+from Sanjai Goel to everyone:    12:27 AM
+UserName : vpo.delhi@orange.com
+Password: Cisco123
